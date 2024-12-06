@@ -1,0 +1,4 @@
+export const tmdbApiKey =
+  "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlYWU4YzljYjFhZDRiZWFjZDUxZmMxNjdjMmMyYjQwZSIsIm5iZiI6MTczMjk1Mjk1OC4yNCwic3ViIjoiNjc0YWMzN2UwYTcwZjJhZDQ0OThmMmI5Iiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.Vldml__4bnqFHE9bBC3TsIhQu7-UX170p8Z1R6zLz2E";
+
+export const imageUrl = "https://image.tmdb.org/t/p/original/";
